@@ -1,2 +1,2 @@
 # FirstApp
-React NAtive First Test App
+React Native First Test App
